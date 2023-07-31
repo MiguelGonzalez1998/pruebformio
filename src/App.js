@@ -2,7 +2,7 @@
 import './App.css';
 import { Form, } from '@formio/react';
 const urlForm = 'https://zmtktwdzuugurqj.form.io/crearsolicitud'
-const urlResource = 'https://zmtktwdzuugurqj.form.io/solicitudes'
+const urlResource = 'https://zmtktwdzuugurqj.form.io/solicitudesprev'
 
 function App() {
 
